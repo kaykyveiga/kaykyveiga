@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Kayky Veiga🤚
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1ulhvtj8j0r64&utm_content=4ayc4pr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaykyveiga46.@gmail.com)
 
 ![kaykyveiga GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykyveiga&show_icons=true&theme=onedark)
 
